@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\bin\Debug\net7.0\LR3.exe
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\bin\Debug\net7.0\LR3.deps.json
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\bin\Debug\net7.0\LR3.runtimeconfig.json
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\bin\Debug\net7.0\LR3.dll
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\bin\Debug\net7.0\LR3.pdb
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\obj\Debug\net7.0\LR3.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\obj\Debug\net7.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\obj\Debug\net7.0\LR3.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\obj\Debug\net7.0\LR3.AssemblyInfo.cs
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\obj\Debug\net7.0\LR3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\obj\Debug\net7.0\LR3.dll
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\obj\Debug\net7.0\refint\LR3.dll
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\obj\Debug\net7.0\LR3.pdb
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\obj\Debug\net7.0\LR3.genruntimeconfig.cache
+\\Mac\Home\Documents\Univer\Web\LR2\LR3\obj\Debug\net7.0\ref\LR3.dll
